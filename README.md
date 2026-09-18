@@ -37,3 +37,15 @@ const principles = {
   data: "PostgreSQL bien modelada, reportes eficientes",
   mindset: "Resolver problemas > usar framework de moda"
 }
+
+Mi trabajo principal está en repositorios privados por confidencialidad empresarial. Por eso mi gráfico de contribuciones es la mejor referencia — 117+ commits el último año.
+
+Stats
+<p> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ADPR25&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADPR25&layout=compact&theme=transparent&hide_border=true&langs_count=6" /> </p>
+Contacto
+📍 Montería, Córdoba, Colombia
+📧 andresperezrios090@gmail.com
+💼 Disponible para freelance
+
+<p> <a href="mailto:andresperezrios090@gmail.com"><img src="https://img.shields.io/badge/email-andresperezrios090@gmail.com-black?style=flat-square&logo=gmail" /></a> <img src="https://img.shields.io/badge/Montería-Córdoba-black?style=flat-square" /> </p> <p> <img src="https://komarev.com/ghpvc/?username=ADPR25&label=visitas&style=flat-square&color=000000" /> </p>
+
