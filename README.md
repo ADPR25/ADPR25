@@ -21,7 +21,7 @@
 ### 💼 Experiencia Laboral
 
 **Desarrollador Full Stack | Yurani Andrea Martinez Dominguez - Futurum Project** 
-`FEB. 2024 - ENE. 2025 | Cali`
+`FEB. 2024 - ENE. 2026 | Cali`
 - Desarrollo full stack con **NestJS, PostgreSQL y Vuetify**
 - Automatización de procesos, generación de reportes y autenticación segura
 - Gestión de datos en entornos empresariales, priorizando escalabilidad y eficiencia
