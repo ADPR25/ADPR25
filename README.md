@@ -1,56 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4aa&height=160&section=header&text=ANDRES%20DAVID%20PEREZ%20RIOS&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%7C%20Monter%C3%ADa%2C%20C%C3%B3rdoba%20-%20Colombia&descAlignY=55&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a1a1a&height=120&section=header&text=ANDRES%20DAVID%20PEREZ&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Vue%20%C2%B7%20NestJS%20%C2%B7%20PHP&descAlignY=58&descSize=13" />
+Analista y desarrollador de software con experiencia en desarrollo de aplicaciones web utilizando Vuetify y Vue para front-end, y NestJS para back-end. Con conocimientos en React y bases de datos. Me destacan habilidades para resolver problemas, trabajo en equipo y adaptarme a nuevos desafíos.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A8F98&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Node.js+%2B+Vue+%2B+PHP;Automatizaci%C3%B3n+de+procesos+%2B+Gesti%C3%B3n+de+datos;+117%2B+contribuciones+en+repos+privados+empresariales" />
-</p>
+Stack
+<p> <img src="https://skillicons.dev/icons?i=vue,vuetify,react,js,ts,nodejs,nestjs,php,postgres,mysql,docker,git&theme=dark" /> </p>
+Vue Vuetify React NestJS Node.js PHP TypeScript PostgreSQL
 
-## Sobre mí
-> Soy desarrollador web full stack con experiencia en la creación de aplicaciones y sistemas a medida. He trabajado tanto freelance como en empresas, fortaleciendo mis habilidades en manejo de datos, automatización de procesos y desarrollo de interfaces web. Comprometido, en constante aprendizaje y enfocado en entregar soluciones prácticas y de calidad.
+Experiencia
+Full Stack @ Futurum Projects — Feb 2025 - Sep 2025
+Desarrollo de aplicaciones empresariales. Automatización de procesos, generación de reportes, autenticación segura y gestión de datos con NestJS + PostgreSQL + Vuetify. Enfoque en escalabilidad y eficiencia.
 
-**🎓 Educación:** Análisis y desarrollo de software - SENA Regional Córdoba (2022-2024)
+Web Developer @ Vosin — Freelance — Feb 2024 - Ene 2025
+Diseño y construcción de sistema de gestión de actas y primera versión de plataforma de gestión social. Backend PHP + NestJS + DB relacionales. Soluciones a medida orientadas a automatización.
 
-### 🛠️ Stack Técnico
-**Backend:** Node.js, NestJS, PHP, TypeScript, JavaScript
-**Frontend:** Vue, Vuetify, React, HTML, CSS, Tailwind
-**Data & DevOps:** PostgreSQL, Docker (principiante), Git
+Educación — Análisis y Desarrollo de Software, SENA Regional Córdoba (Jul 2022 - Oct 2024)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,js,ts,vue,vuetify,react,postgres,docker,git,tailwind&theme=dark" />
-</p>
+Cómo trabajo
+ts
+// lo que priorizo cuando no puedo mostrar código privado
+const principles = {
+  backend: "API REST documentada, capas separadas, auth segura",
+  frontend: "Componentización, Vuetify/Vue, UX simple",
+  data: "PostgreSQL bien modelada, reportes eficientes",
+  mindset: "Resolver problemas > usar framework de moda"
+}
+Mi trabajo principal está en repositorios privados por confidencialidad empresarial. Por eso mi gráfico de contribuciones y actividad es la referencia real — 117+ commits el último año.
 
-### 💼 Experiencia Laboral
-
-**Desarrollador Full Stack | Yurani Andrea Martinez Dominguez - Futurum Project** 
-`FEB. 2024 - ENE. 2027 (EN CURSO) | Cali`
-- Desarrollo full stack con **NestJS, PostgreSQL y Vuetify**
-- Automatización de procesos, generación de reportes y autenticación segura
-- Gestión de datos en entornos empresariales, priorizando escalabilidad y eficiencia
-
-**Desarrollador Web Freelance | Diego Hernando Zea**
-`FEB. 2024 - ENE. 2025 | Cali`
-- Diseño y construcción de sistemas de gestión de actas y plataforma de gestión social
-- Backend con **PHP y NestJS** + bases de datos relacionales
-- Soluciones adaptadas a necesidades del cliente orientadas a automatización
-
-### 🧠 Cómo trabajo
-- **Código limpio:** API REST bien documentadas, componentización en Vue/React, separación de capas
-- **Aptitudes:** Desarrollo de software, trabajo en equipo, resolución de problemas, algoritmos y estructuras de datos, dominio de lenguajes, desarrollo y mejora de productos
-- Mis contribuciones principales están en **repositorios privados** por confidencialidad empresarial - por eso el gráfico de abajo es la mejor referencia
-
-### 📊 Actividad
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ADPR25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,prs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADPR25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-### 📫 Contacto
-- 📍 Montería, Córdoba, Colombia
-- 📧 andresperezrios090@gmail.com
-- 💼 Disponible para freelance y colaboraciones
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADPR25&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4aa&height=80&section=footer" />
+<p> <img height="140" src="https://github-readme-stats.vercel.app/api?username=ADPR25&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=8b949e&icon_color=8b949e&hide=contribs,prs" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADPR25&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&langs_count=6" /> </p>
+Contacto
+<p> <a href="mailto:andresperezrios090@gmail.com"><img src="https://img.shields.io/badge/email-andresperezrios090@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Montería-Córdoba-0a0a0a?style=flat-square" /> <img src="https://img.shields.io/badge/disponible-freelance-0e75b6?style=flat-square" /> </p> <p> <img src="https://komarev.com/ghpvc/?username=ADPR25&label=visitas&style=flat-square&color=0a0a0a" /> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a1a1a&height=60&section=footer" />
