@@ -1,43 +1,47 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4aa&height=160&section=header&text=ANDRES%20DAVID%20PEREZ%20RIOS&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%7C%20Monter%C3%ADa%2C%20C%C3%B3rdoba%20-%20Colombia&descAlignY=55&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4aa&height=160&section=header&text=ANDRES%20DAVID%20PEREZ%20RIOS&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20NestJS%20-%20Vue%20-%20React%20%7C%20Monteria%2C%20Colombia&descAlignY=55&descSize=14" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A8F98&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Node.js+%2B+Vue+%2B+PHP;Automatizaci%C3%B3n+de+procesos+%2B+Gesti%C3%B3n+de+datos;Enfocado+en+soluciones+pr%C3%A1cticas+y+de+calidad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A8F98&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3+anios+de+experiencia;SaaS+Multi-tenant+%2B+RBAC+%2B+ERP;NestJS+%7C+Vue+%7C+React+%7C+PostgreSQL" />
 </p>
 
 ## Sobre mí
-> Soy desarrollador web full stack con experiencia en la creación de aplicaciones y sistemas a medida. He trabajado tanto freelance como en empresas, fortaleciendo mis habilidades en manejo de datos, automatización de procesos y desarrollo de interfaces web. Comprometido, en constante aprendizaje y enfocado en entregar soluciones prácticas y de calidad.
+> Full Stack Developer con 3 años de experiencia total. Desde Feb 2025 lidero el desarrollo y mantenimiento de 5 sistemas ERP internos multi-empresa en Futurum Projects. Especializado en arquitectura SaaS multi-tenant, RBAC fino y trazabilidad documental. Trabajo principal en repositorios privados por NDA.
 
 **🎓 Educación:** Análisis y desarrollo de software - SENA Regional Córdoba (2022-2024)
 
 ### 🛠 Stack Técnico
-**Backend:** Node.js, NestJS, PHP, TypeScript, JavaScript
-**Frontend:** Vue, Vuetify, React, HTML, CSS, Tailwind
-**Data & DevOps:** PostgreSQL, Docker, Git
+**Backend:** Node.js, NestJS, TypeScript, JavaScript, PHP
+**Frontend:** Vue 3, Vuetify, React, TypeScript, HTML, CSS, Tailwind
+**Data & DevOps:** PostgreSQL, Docker, Git, JWT, Multi-tenancy
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,js,ts,vue,vuetify,react,postgres,docker,git,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,vue,vuetify,react,postgres,docker,git,tailwind&theme=dark" />
 </p>
 
 ### 💼 Experiencia Laboral
 
-**Desarrollador Full Stack | Yurani Andrea Martinez Dominguez - Futurum Project** 
-`FEB. 2024 - ENE. 2027 (EN CURSO) | Cali`
-- Desarrollo full stack con **NestJS, PostgreSQL y Vuetify**
-- Automatización de procesos, generación de reportes y autenticación segura
-- Gestión de datos en entornos empresariales, priorizando escalabilidad y eficiencia
+**Full Stack Developer | Futurum Projects** 
+`FEB. 2025 - Actualidad | Remoto`
+- Lidero desarrollo y mantenimiento de 5 sistemas ERP internos multi-empresa (NDA)
+- Arquitectura modular por dominios, seguridad con JWT + Guards + Tenant Interceptor
+- Stack: NestJS, PostgreSQL, Vue / React - Alta estabilidad en producción
 
-**Desarrollador Web Freelance | Diego Hernando Zea**
-`FEB. 2024 - ENE. 2025 | Cali`
-- Diseño y construcción de sistemas de gestión de actas y plataforma de gestión social
-- Backend con **PHP y NestJS** + bases de datos relacionales
-- Soluciones adaptadas a necesidades del cliente orientadas a automatización
+**Frontend Developer | VOSIN SAS** 
+`FEB. 2024 - ENE. 2025`
+- Desarrollo de módulos frontend y consumo de APIs REST con estado asíncrono
+- Stack: React, TypeScript, Tailwind
+
+**Full Stack (Equipo Externo) | Futurum Projects**
+`SEP. 2023 - SEP. 2024`
+- Desarrollo inicial de módulos ERP que derivó en contratación a tiempo completo
 
 ### 🧠 Cómo trabajo
-- **Código limpio:** API REST bien documentadas, componentización en Vue/React, separación de capas
-- **Aptitudes:** Desarrollo de software, trabajo en equipo, resolución de problemas, algoritmos y estructuras de datos, dominio de lenguajes, desarrollo y mejora de productos
+- **Código limpio:** API REST documentadas, componentización en Vue/React, separación de capas, Backend-Driven UI
+- **Seguridad:** RBAC dinámico por menú/permiso sin redeploy, Audit Logging, Multi-tenancy
+- **Aptitudes:** Desarrollo de software, trabajo en equipo, resolución de problemas, escalabilidad
 
 ### 📊 Actividad
-> Mis contribuciones principales están en **repositorios privados** por confidencialidad empresarial.
+> Mis contribuciones principales están en **repositorios privados por confidencialidad empresarial (NDA)**. 298 contribuciones totales incluyendo commits privados.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADPR25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -48,14 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADPR25&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADPR25&theme=tokyonight" />
-</p>
-
 ### 📫 Contacto
-- 📍 Montería, Córdoba, Colombia
+- 📍 Montería, Córdoba, Colombia - Remoto
 - 📧 andresperezrios090@gmail.com
-- 💼 Disponible para freelance y colaboraciones
+- 💼 Disponible para freelance y colaboraciones remotas
 
 ---
 <p align="center">
